@@ -3,4 +3,5 @@
  cd: change directory to home directory
  ls -l: display current directory in long format
  ls -a: display cd including hidden files
- ls -na: dispaly cd content 
+ ls -na: dispaly cd content
+mkdir: to create a directory 
