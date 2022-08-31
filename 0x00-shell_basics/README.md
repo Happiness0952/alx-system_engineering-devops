@@ -2,4 +2,5 @@
  ls: print current working directory
  cd: change directory to home directory
  ls -l: display current directory in long format
- ls -a: display cd including hidden files 
+ ls -a: display cd including hidden files
+ ls -na: dispaly cd content 
