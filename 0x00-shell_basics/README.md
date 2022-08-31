@@ -9,4 +9,5 @@ mv: to move a file
 rm: to delete file
 rm -R: to delete dir
 cd ..: change to the previous cd
-ls -la . .. /boot 
+ls -la . .. /boot
+file: to print file 
