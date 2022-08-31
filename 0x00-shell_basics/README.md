@@ -11,4 +11,5 @@ rm -R: to delete dir
 cd ..: change to the previous cd
 ls -la . .. /boot
 file: to print file
-ln -s: to create a symbolic link 
+ln -s: to create a symbolic link
+cp -r: to copy 
