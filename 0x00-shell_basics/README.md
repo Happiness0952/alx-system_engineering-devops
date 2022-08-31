@@ -5,4 +5,5 @@
  ls -a: display cd including hidden files
  ls -na: dispaly cd content
 mkdir: to create a directory
-mv: to move a file 
+mv: to move a file
+rm: to delete file 
