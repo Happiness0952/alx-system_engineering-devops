@@ -6,4 +6,5 @@
  ls -na: dispaly cd content
 mkdir: to create a directory
 mv: to move a file
-rm: to delete file 
+rm: to delete file
+rm -R: to delete dir 
