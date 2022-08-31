@@ -7,4 +7,5 @@
 mkdir: to create a directory
 mv: to move a file
 rm: to delete file
-rm -R: to delete dir 
+rm -R: to delete dir
+cd ..: change to the previous cd 
