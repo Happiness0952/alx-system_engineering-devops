@@ -1,1 +1,1 @@
-sudo chown: to switch user
+su: to switch user
