@@ -2,4 +2,4 @@ su: to switch user
 whoami: print effective username of the current user
 id: print  groups user is part of
 touch: to create empty file
-chmod 100: add execute permission to the owner
+chmod 744: add execute permission to the owner
