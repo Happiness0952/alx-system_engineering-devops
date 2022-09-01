@@ -13,4 +13,5 @@ ls -la . .. /boot
 file: to print file
 ln -s: to create a symbolic link
 cp -r: to copy
-mv [[:upper:]]*: to move all uppercase file  
+mv [[:upper:]]*: to move all uppercase file
+rm *~: to delete files that end with ~  
